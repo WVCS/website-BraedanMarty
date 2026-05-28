@@ -1,3 +1,37 @@
 body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #eef2f7;
+}
 
+nav {
+    background-color: #1e3a5f;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 18px;
+}
+
+nav a:hover {
+    color: lightblue;
+}
+
+h1 {
+    color: #1e3a5f;
+    margin-top: 20px;
+}
+
+img {
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+iframe {
+    margin: 20px;
+    border-radius: 10px;
 }
